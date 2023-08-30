@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import Nav from "./Nav/Nav";
 
 function Header() {
 
@@ -15,8 +16,8 @@ function Header() {
 
   return (
     <header>
-      <h1>My Portfolio Page</h1>
-      <nav style={navStyle}>
+      <Nav/>
+      {/* <nav style={navStyle}>
         <Link to="/">
           <div>HOME</div>
         </Link>
@@ -26,7 +27,7 @@ function Header() {
         <Link to="/projects">
           <div>PROJECTS</div>
         </Link>
-      </nav>
+      </nav> */}
     </header>
   );
 }
