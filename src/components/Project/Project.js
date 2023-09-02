@@ -9,7 +9,7 @@ import {
    
   export default function Project({name, image, git, live}) {
     return (
-    <div className="flex-row">
+    <div className="flex-row mx-auto p-10">
       <Card className="mt-6 w-96">
         <CardHeader color="blue-gray" className="relative h-56">
           <img

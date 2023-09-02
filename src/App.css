@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+body {
+  /* background: linear-gradient(to bottom, #f7efef, #e9e3e3);  */
+  background: linear-gradient(to bottom, #f0e9ff, #cfe2ff); 
+  /* background: linear-gradient(to bottom, #dbe2e8, #37474F, #aebdcf);  */
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

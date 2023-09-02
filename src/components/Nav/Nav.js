@@ -7,7 +7,7 @@ import { Link } from 'react-scroll'
 const navigation = [
   { name: 'About', href: '#', current: false },
   { name: 'Projects', href: 'projects', current: false },
-  { name: 'Skills', href: '#', current: false },
+  { name: 'Skills', href: 'skills', current: false },
   { name: 'Contact', href: '#', current: false },
 ]
 const BASE_URL= "http://localhost:3000/"
@@ -18,7 +18,7 @@ function classNames(...classes) {
 
 export default function Nav() {
   return (
-    <Disclosure as="nav" className="bg-gray-800">
+    <Disclosure as="nav" className="bg-blue-gray-800">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
