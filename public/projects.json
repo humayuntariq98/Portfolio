@@ -1,21 +1,24 @@
 [
   {
-    "name": "Blackjack",
-    "live": "https://blackjackinjs.netlify.app/",
-    "git": "https://github.com/humayuntariq98/Blackjack",
-    "image": "https://imgur.com/a/awaWu13"
+    "name": "Bitemate",
+    "live": "https://bitemate.netlify.app/",
+    "git": "https://github.com/humayuntariq98/Bitemate",
+    "image": "https://drive.google.com/uc?id=1uaNINsvxkaBFZMBP1jAWjrg0OKs1C43E",
+    "description": "An online platform looking to immitate something like Uber Eats/ Doordash."
   },
   {
     "name": "ExploreEZ",
-    "live": "https://infinite-island-30535-6f15b733fb9d.herokuapp.com/",
+    "live": "https://exploreez-b83bfa8d4062.herokuapp.com/",
     "git": "https://github.com/humayuntariq98/ExploreEZ",
-    "image": "https://imgur.com/a/l7XTnPH"
+    "image": "https://drive.google.com/uc?id=1mM2MPVq62zle7nhecvaluaYzPs-BYTSQ",
+    "description": "An online platform to crowdsource reviews about cities/countries."
   },
   {
-    "name": "TicTacToe",
-    "live": "https://infinite-island-30535-6f15b733fb9d.herokuapp.com/",
-    "git": "https://github.com/humayuntariq98/ExploreEZ",
-    "image": "https://imgur.com/a/l7XTnPH"
+    "name": "WardrobeWeave",
+    "live": "https://wardrobewaves.netlify.app/",
+    "git": "https://github.com/humayuntariq98/wardrobewave",
+    "image": "https://drive.google.com/uc?id=1VR11xZQ0jXsjYcLI0VpJfOuF_9TJ86ha",
+    "description": "An online ecommerce store built to practice complex ecommerce features"
   }
 ]
 
