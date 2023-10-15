@@ -8,14 +8,14 @@
   },
   {
     "name": "ExploreEZ",
-    "live": "https://exploreez-b83bfa8d4062.herokuapp.com/",
+    "live": "https://explorez-f516d70a2437.herokuapp.com/",
     "git": "https://github.com/humayuntariq98/ExploreEZ",
     "image": "https://drive.google.com/uc?id=1mM2MPVq62zle7nhecvaluaYzPs-BYTSQ",
     "description": "An online platform to crowdsource reviews about cities/countries."
   },
   {
     "name": "WardrobeWeave",
-    "live": "https://wardrobewaves.netlify.app/",
+    "live": "https://illustrious-dango-1a23f8.netlify.app/",
     "git": "https://github.com/humayuntariq98/wardrobewave",
     "image": "https://drive.google.com/uc?id=1VR11xZQ0jXsjYcLI0VpJfOuF_9TJ86ha",
     "description": "An online ecommerce store built to practice complex ecommerce features"
